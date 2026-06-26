@@ -96,18 +96,8 @@ AI-Sales-Agent/
 │── database.py
 │── database_model.py
 │── create_save_lead.py
-│── requirements.txt
 │── README.md
-│── .gitignore
 
-├── agents/
-│   ├── research_agent.py
-│   ├── scoring_agent.py
-│   └── email_agent.py
-
-├── screenshots/
-
-└── .env
 
 ## Configure Environment Variables
 
