@@ -13,31 +13,6 @@ An AI-powered sales automation platform that researches companies, qualifies lea
 - 🎨 Streamlit Frontend
 - 🔄 n8n Workflow Automation
 - 📧 Automatic Gmail Integration
-
-# 🏗️ Project Architecture
-
-                    User
-                      │
-                      ▼
-              Streamlit Frontend
-                      │
-                      ▼
-                 FastAPI Backend
-                      │
-                      ▼
-               AI Sales Agent
-        ┌──────────┼──────────┐
-        ▼          ▼          ▼
- Research Agent  Score Agent  Email Agent 
-        └──────────┼──────────┘
-                   ▼
-             PostgreSQL Database
-                   │
-                   ▼
-             n8n Automation
-                   │
-                   ▼
-              Gmail Integration
               
 
 # 🧠 AI Agent Workflow
