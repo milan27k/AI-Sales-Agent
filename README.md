@@ -28,8 +28,7 @@ An AI-powered sales automation platform that researches companies, qualifies lea
                AI Sales Agent
         ┌──────────┼──────────┐
         ▼          ▼          ▼
- Research Agent  Score Agent  Email Agent
- 
+ Research Agent  Score Agent  Email Agent 
         └──────────┼──────────┘
                    ▼
              PostgreSQL Database
