@@ -203,8 +203,6 @@ Hello {company name},
 
 ...
 
----
-
 # Future Improvements
 
 - Docker Support
@@ -219,8 +217,3 @@ Hello {company name},
 
 **Milan Kamboj**
 
-
-
----
-
-# ⭐ If you like this project, consider giving it a Star!
