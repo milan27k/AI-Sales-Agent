@@ -56,19 +56,18 @@ Generates:
 
 ## Home Page
 
-![Home](home page.png)
+![Home](home_page.png)
 
 ## Research Details
 
-(image)
+![Home](research.png)
 
 ---
 
 ## Lead Analysis
 
-![Lead Analysis](lead score.png)
+![Lead Analysis](lead_score.png)
 
----
 
 ## AI Generated Email
 
