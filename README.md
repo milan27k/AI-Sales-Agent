@@ -56,11 +56,9 @@ Generates:
 
 ## Home Page
 
-(image)
+![Home](home page.png)
 
----
-
-## Customer Details
+## Research Details
 
 (image)
 
@@ -68,19 +66,19 @@ Generates:
 
 ## Lead Analysis
 
-(image)
+![Lead Analysis](lead score.png)
 
 ---
 
 ## AI Generated Email
 
-(image)
+![Email](email.png)
 
 ---
 
 ## n8n Workflow
 
-(image)  
+![Workflow](n8n.png) 
 
 # 🛠️ Tech Stack
 
