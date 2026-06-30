@@ -51,6 +51,37 @@ Generates:
 - AI solution recommendations
 - Meeting CTA
 
+
+# Screenshots
+
+## Home Page
+
+(image)
+
+---
+
+## Customer Details
+
+(image)
+
+---
+
+## Lead Analysis
+
+(image)
+
+---
+
+## AI Generated Email
+
+(image)
+
+---
+
+## n8n Workflow
+
+(image)  
+
 # 🛠️ Tech Stack
 
 ## Frontend
